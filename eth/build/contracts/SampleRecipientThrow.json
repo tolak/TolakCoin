@@ -1,0 +1,13 @@
+{
+  "contract_name": "SampleRecipientThrow",
+  "abi": [
+    {
+      "payable": false,
+      "type": "fallback"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600b57fe5b5b60458060196000396000f30060606040525b3415600c57fe5b60175b60006000fd5b565b0000a165627a7a723058205cc3f985b57e62dd88bd06f19bfe9a0a2323cc34551ab4d45be0a487dca937080029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1499852171345
+}
